@@ -108,6 +108,9 @@ env.bak/
 venv.bak/
 bpl/
 
+# Folders
+HA_SimilarWeb/
+
 # Spyder project settings
 .spyderproject
 .spyproject
